@@ -21,7 +21,7 @@ Read the detail here :
 
 * Every transaction \(send, swap, farming, etc.\) of MIST will be charged a 2% transfer tax.
 * 2% transfer tax will be burned directly in every transaction.
-* Use **2.5%+** slippage to buy MIST and AURUM on PCS or other AMM. Less than 2% slippage will cause the transaction to fail.
+* Use **2.5%+** slippage to buy MIST and AURUM on Pancake Swap or other AMM. Less than 2% slippage will cause the transaction to fail.
 
 **Automated inflation reduction**
 
