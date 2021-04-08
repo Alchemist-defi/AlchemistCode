@@ -6,4 +6,5 @@
 * Medium: [https://alchemistdefi.medium.com/](https://alchemistdefi.medium.com/)
 * Telegram: [https://t.me/alchemistdefi](https://t.me/alchemistdefi)
 * Telegram Annoucements: [https://t.me/alchemistdefiann](https://t.me/alchemistdefiann)
+* Discord : Please check the telegram channel, as the discord link changes every 7 days. 
 
