@@ -1,7 +1,5 @@
 # How we burn tokens
 
-
-
 In order to continually increase the value of our token and reward high yield to our investors, we are committed to burn as many tokens as possible. Here are the following measures implemented :
 
 * Buyback Burning Mechanism

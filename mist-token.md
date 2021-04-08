@@ -1,7 +1,5 @@
 # MIST and AURUM Tokens
 
-
-
 * Name: Alchemist Defi Token
 * Symbol: MIST
 * Contract: [0x6f8fe12cc34398d15b7d5a5ba933e550da1d099f](https://bscscan.com/address/0x6f8fe12cc34398d15b7d5a5ba933e550da1d099f)
