@@ -15,7 +15,7 @@ Read the detail here :
 * 40% of the deposit fee \(4%\) will be allocated to buyback MIST and AURUM and burn them.
 * 10% of the deposit fee \(4%\) will be allocated to a marketing fund.
 * 50% will go the the dev wallet for further development and an emergency fund.
-* Buyback burning will happen every day.
+* Buyback burning will happen as needed to maintain a stable price.
 
 **Transfer Tax Burning Mechanism**
 
