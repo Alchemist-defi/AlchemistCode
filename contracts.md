@@ -1,10 +1,14 @@
 # Contracts
 
+### Mist Contracts
+
 MIST Masterchef: 0x43404359bB38F5135aB8e25c62902015a49A0074
 
 MIST token: 0x6f8fe12cc34398d15b7d5a5ba933e550da1d099f
 
 MIST Timelock: 0x5aa13aA7dCB8cb6D23e1Eb3424160BDD1323bBCE
+
+### Aurum Contracts
 
 AURUM Masterchef: 0x193765551a49ead3aa8c693f19c4501710cd874d
 

@@ -8,4 +8,5 @@
 * [Timelock](timelock.md)
 * [Contracts](contracts.md)
 * [Socials](socials.md)
+* [Bug Bounty Program](bug-bounty-program.md)
 
