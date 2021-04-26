@@ -26,3 +26,7 @@
 * [Bug Bounty Program](community/bug-bounty-program.md)
 * [Socials - Where to find us?](community/socials.md)
 
+## Help and FAQ
+
+* [FAQ's and Tips](help-and-faq/faqs-and-tips.md)
+
