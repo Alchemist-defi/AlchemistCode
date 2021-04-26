@@ -24,6 +24,14 @@ Note that applying and being successful on exchanges is a major challenge for a 
 
 ### Exchanges and Price charts where you can find our tokens
 
+\*\*\*\*[**How Much is my LP**](https://howmuchismylp.com/) **-** Great site to check and validate the value of your LP's
+
+\*\*\*\*[**YieldWatch**](https://www.yieldwatch.net/) - Good wallet tracking site
+
+\*\*\*\*[**Bogged Finance**](https://bogtools.io/) - Good chart tracking site and ability to do limit order
+
+\*\*\*\*[**Unidex**](https://unidexbeta.app/bscCharting?token=0x6f8FE12CC34398d15b7D5A5BA933E550DA1D099f) - Charting platform we use 
+
 ### Applied - Waiting for Response/In progress
 
 [CoinGecko](https://www.coingecko.com/en) - Applied, no response as yet. Continue applying
@@ -43,6 +51,8 @@ Note that applying and being successful on exchanges is a major challenge for a 
 [DeBank](https://debank.com/) -  Applied, Proposal [here -](https://debank.com/vote/624)&gt; Please vote
 
 [DefiPrime ](https://defiprime.com/bsc) -  Applied, no response as yet. Continue applying
+
+\*\*\*\*[**BitForex**](https://www.bitforex.com/) - Applied, no response yet. Continue Applying
 
 ### Applied - Not moving forward yet due to capital requirements
 
