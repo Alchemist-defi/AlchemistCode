@@ -1,4 +1,4 @@
-# Alchemist Defi
+# Alchemist Defi Project Information
 
 Alchemist Defi is a brand new project designed by an experienced development team as the 3rd generation deflationary yield farm & Liquidity Provider & AMM on Binance Smart Chain. After the intial launch the original developer could no longer give his full attention to Alchemist Defi, so a new team has stepped in to take over. 
 
