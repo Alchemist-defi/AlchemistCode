@@ -9,4 +9,5 @@
 * [Contracts](contracts.md)
 * [Socials](socials.md)
 * [Bug Bounty Program](bug-bounty-program.md)
+* [Listings and dApp Applications](listings-and-dapp-applications.md)
 
