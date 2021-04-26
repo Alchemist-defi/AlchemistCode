@@ -8,7 +8,7 @@ Our standard process for applications is to follow the channels that each site r
 
 For sites that require significant upfront capital to get listed, we will usually park these on the back burner until the project has funding. At that stage, we will re-consider spending capital to list on those sites \(If the community agrees\)
 
-Note that applying and being successful on exchanges is a major challenge for a small project, but you as the community can help by making suggestions and also upvoting or spreading the word in your communities. 
+Note that applying and being successful on exchanges is a major challenge for a small project, but you as the community can help by making suggestions and also up voting or spreading the word in your communities. 
 
 ### Applied and Listed
 
@@ -48,7 +48,7 @@ Note that applying and being successful on exchanges is a major challenge for a 
 
 [BSCNews](https://www.bsc.news/) -  Applied, no response as yet. Continue applying
 
-[DeBank](https://debank.com/) -  Applied, Proposal [here -](https://debank.com/vote/624)&gt; Please vote
+[DeBank](https://debank.com/) -  Applied, Proposal [here ](https://debank.com/vote/625)-&gt; Please vote
 
 [DefiPrime ](https://defiprime.com/bsc) -  Applied, no response as yet. Continue applying
 
