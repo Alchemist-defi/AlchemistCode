@@ -1,5 +1,9 @@
 # MIST and AURUM Tokens
 
+## Summary
+
+The project runs 2 tokens, MIST and AURUM. With the concept being the MIST token is more readily avialble and the AURUM token is much more rare. This is simialr to what you would see in layered farming. You will also note that there are incentives to mine AURUM and MIST and each pool has different rewards to help with this. 
+
 * Name: Alchemist Defi Token
 * Symbol: MIST
 * Contract: [0x6f8fe12cc34398d15b7d5a5ba933e550da1d099f](https://bscscan.com/address/0x6f8fe12cc34398d15b7d5a5ba933e550da1d099f)
