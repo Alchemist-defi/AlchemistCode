@@ -12,7 +12,6 @@
 ## Tokenomics
 
 * [MIST and AURUM Tokens](tokenomics/mist-token.md)
-* [Launch and Presale](tokenomics/launch-and-presale.md)
 * [Contracts](tokenomics/contracts.md)
 
 ## Security
