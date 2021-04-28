@@ -11,6 +11,9 @@
 * Initial emission rate: 0.7 MIST/Block
 * Minimum emission rate: 0.3 MIST/Block
 * Emission reduction: the emission rate has been reduced by 5% every 9,600 blocks \(~8 hours\) automatically to current level
+* BSC produces a new block every 3s: Therefore 6 MIST is being minted every minute. 
+* These MIST tokens are used to pay the yield created on the farms. 
+* Supply : Unlimted to the extent that MIST will be minted for as long as there is yield farming on the contract. Once Yield Farming Stops, no more MIST will be minted as the Contract no longer MINTS. 
 
 
 
