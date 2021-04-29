@@ -6,7 +6,9 @@
 
 ‌**Listings**
 
-‌We will continue to work on listing many coins tracking sites like Coin Market Cap and CoinGecko. These things take time and in most cases CMC and CG require a certain amount of liquidity and community interaction in order to be able to be listed. We will continue working on this front.
+‌We will continue to work on listing many coins tracking sites like Coin Market Cap and CoinGecko. These things take time and in most cases CMC and CG require a certain amount of liquidity and community interaction in order to be able to be listed. We will continue working on this front
+
+[Checkout our listings page for more info](listings-and-dapp-applications.md).
 
 ‌**Marketing**
 
