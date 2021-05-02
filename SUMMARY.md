@@ -28,4 +28,9 @@
 ## Help and FAQ
 
 * [FAQ's and Tips](help-and-faq/faqs-and-tips.md)
+* [Terms and Glossary](help-and-faq/terms-and-glossary.md)
+
+## Changes
+
+* [Aurum Contract - Proposed Changes May 7 2021](changes/aurum-contract-proposed-changes-may-7-2021.md)
 
