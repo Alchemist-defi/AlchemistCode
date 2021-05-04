@@ -12,7 +12,9 @@ All Changes need to, and will be going through the alchemist Timelock. Meaning t
 
 Rollout plan
 
-* New Pools and LP's being added to the Masterchef will first be added to the Masterchef with a 1 ALLOCPOINT, which means the multiplier for that pool will be 0.01X. The reason for this is to ensure the pools can be added and the front end can be tested to be working \(in our developement environment\). This will require 8 hours lead time first, and then some time to develop the front end to ensure it can handled pools on the AURUM contract.
+* ~~New Pools and LP's being added to the Masterchef will first be added to the Masterchef with a 1 ALLOCPOINT, which means the multiplier for that pool will be 0.01X. The reason for this is to ensure the pools can be added and the front end can be tested to be working \(in our developement environment\). This will require 8 hours lead time first, and then some time to develop the front end to ensure it can handled pools on the AURUM contract.~~
+  * Queue Transaction completed 
+  * Execute Transaction to be completed by Tues 11:00pm AEST
 * Once testing is complete and front end is built a new set of queue transactions will be set to update all the new pools to the final ALLOCPOINT figures. In addition a number of queue transactions will be set to update the existing pools as per the proposed changes listed below. This is to update ALLOCPOINTS to their new figures and also set the pools that we are removing to 0 ALLOCPOINTS.
 
   We will then update the front end website to show the new pools for everyone to use stake their LP's against the pools. 
