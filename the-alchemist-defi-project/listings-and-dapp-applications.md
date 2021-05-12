@@ -36,13 +36,7 @@ Note that applying and being successful on exchanges is a major challenge for a 
 
 [CoinGecko](https://www.coingecko.com/en) - Applied, no response as yet. Continue applying
 
-[Bittrex](https://global.bittrex.com/) - Applied, meeting set for 26/04/2021
-
 [Pancake Swap](https://pancakeswap.finance/) -  Applied, no response as yet. Continue applying
-
-[WhiteBit](https://whitebit.com/)  -  Applied, no response as yet. Continue applying
-
-[HotBit](https://www.hotbit.io/) -  Applied, no response as yet. Continue applying
 
 [TrustWallet](https://trustwallet.com/) -  Applied, no response as yet. Continue applying
 
@@ -57,6 +51,14 @@ Note that applying and being successful on exchanges is a major challenge for a 
 ### Applied - Not moving forward yet due to capital requirements
 
 [CoinTiger](https://www.cointiger.com/en-us/) - Applied, looking for a listing fee of $15k USD per token - Not moving forward at this stage
+
+[Bittrex](https://global.bittrex.com/) - Applied, looking for a fee of 125k-300k per token - Not moving forward at this stage
+
+[WhiteBit](https://whitebit.com/)  -  Applied, looking for a fee of 65k per token - Not moving forward at this stage
+
+[HotBit](https://www.hotbit.io/) -  Applied, looking for a fee of 16k per token - Not moving forward at this stage
+
+[Bilaxy ](https://bilaxy.com/) - Applied, looking for 20k per token plus 20k in each native token - Not moving forward at this stage
 
 
 
