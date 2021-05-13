@@ -12,7 +12,7 @@ Note that applying and being successful on exchanges is a major challenge for a 
 
 ### Applied and Listed
 
-\*\*\*\*[**CoinMarketCap** ](https://coinmarketcap.com/currencies/alchemist-defi-mist/)- Applied and have an un-tracked listing. We are currently in further discussions with CMC as to why we are not able to be listed completely. 
+\*\*\*\*[**CoinMarketCap** ](https://coinmarketcap.com/currencies/alchemist-defi-mist/)- Applied and Listed
 
 \*\*\*\*[**DappRadar** ](https://dappradar.com/binance-smart-chain/defi/alchemist-defi)- Applied and Listed 
 
