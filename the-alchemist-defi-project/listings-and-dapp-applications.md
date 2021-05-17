@@ -14,7 +14,7 @@ Note that applying and being successful on exchanges is a major challenge for a 
 
 \*\*\*\*[**CoinMarketCap** ](https://coinmarketcap.com/currencies/alchemist-defi-mist/)- Applied and Listed \(13/05/2021\)
 
-[CoinGecko](https://www.coingecko.com/en/coins/alchemist-defi-mist) - Applied and Listed \(17/05/2021\)
+\*\*\*\*[**CoinGecko**](https://www.coingecko.com/en/coins/alchemist-defi-mist) ****- Applied and Listed \(17/05/2021\)
 
 \*\*\*\*[**DappRadar** ](https://dappradar.com/binance-smart-chain/defi/alchemist-defi)- Applied and Listed 
 
