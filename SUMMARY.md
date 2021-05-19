@@ -32,5 +32,5 @@
 
 ## Changes
 
-* [Aurum Contract - Proposed Changes May 7 2021](changes/aurum-contract-proposed-changes-may-7-2021.md)
+* [Aurum Contract - Changes May 7 2021](changes/aurum-contract-proposed-changes-may-7-2021.md)
 

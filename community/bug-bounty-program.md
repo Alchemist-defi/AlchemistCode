@@ -10,9 +10,7 @@ Please use the following form to submit your bug, this is the easiest way that w
 
 It is important that you complete the google form below as this is the only way we can track first in first served and also make sure we prioritize the bug fixes. 
 
-{% embed url="https://forms.gle/3m9X11xaFiV99Lp77" caption="Bug bounty form." %}
-
-
+[Bug Bounty Submission Sheet - Google Sheets](https://forms.gle/3m9X11xaFiV99Lp77)
 
 We are currently offering up to 100 MIST for every bug reported that requires a fix in production.
 
