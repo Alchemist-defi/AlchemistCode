@@ -36,8 +36,6 @@ Note that applying and being successful on exchanges is a major challenge for a 
 
 ### Applied - Waiting for Response/In progress
 
-[CoinGecko](https://www.coingecko.com/en) - Applied, no response as yet. Continue applying
-
 [Pancake Swap](https://pancakeswap.finance/) -  Applied, no response as yet. Continue applying
 
 [TrustWallet](https://trustwallet.com/) -  Applied, no response as yet. Continue applying
