@@ -10,7 +10,6 @@ Besides the buyback burning mechanism introduced by Goose Finance, we have imple
 
 * **Buyback Burning Mechanism**
 * **Transfer Tax Burning Mechanism**
-* **Automated Referral Reward & Burn**
 * **Automated inflation reduction**
 
 Our approach is to test, retest and push everything to the limits. To increase SAFUty, the following is enforced :
