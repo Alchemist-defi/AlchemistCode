@@ -14,15 +14,15 @@ The URL above is broken down into the URL for the exchange then \#/remove/token1
 
 Have a read over the [Tokenomics ](../tokenomics/mist-token.md)and [How we burn](../the-alchemist-defi-project/automated-burning-mechanism.md) section\(s\) to get a good understanding of the project.
 
-The project is based on a takeover, which means the current leads and owners of this project are all community members. With that, it would be safe to see this project as a "Community" project with a few dedicated community members. 
+The project is based on a takeover, which means the current project leadership and owners are all community members. With that in mind, it would be safe to see this project as a "Community" project with a few dedicated community members. 
 
-To answer the question though, all money made, earned and used is from deposit fees only. There is no premine and no Dev allocation.
+To answer the question, the only money made, earned and used is from deposit fees on the pools with fees. There is no premine and no developer allocation.
 
-Which means that marketing, developments and administration all comes from the 4%-9% received on pools that charge a deposit fee.
+This means that marketing, developments and administration all comes from the 2%-9% received on pools that charge a deposit fee.
 
-In addition, as per our burn mandate that fee is actually further dialuted and actually used to burn tokens as well as doing all the marketing, listings etc. 
+In addition, as per our burn mandate, those fees are actually even further diluted and used to burn tokens in addition to doing all the marketing, listings etc. 
 
-The Dev, Marketing and Administration team get allocations at the end of a month after we paid for what's required and what's burnt. As it stands todate, this fee is very low right now, and our philosophy is not to try make it rich off the start of the project. We believe in the project and as such are holding our mist tokens we each earned though purchasing with our private money or the % earned from the above. If the token does well we all do well.
+The Developer, Marketing and Administration team get allocations at the end of a month after we paid for what's required and what's burnt. As it stands to date, this fee is very low right now, and our philosophy is not to try and get rich off the start of the project. We believe in the project and as such are holding our MIST and AURUM tokens we earned though purchasing with our private funds or the % earned from the above. If the token does well we all do well. We are just as invested in this project as our investors.
 
  
 
