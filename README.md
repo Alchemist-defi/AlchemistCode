@@ -1,8 +1,8 @@
 # Alchemist Defi Project Information
 
-Alchemist Defi is a brand new project designed by an experienced development team as the 3rd generation deflationary yield farm & Liquidity Provider & AMM on Binance Smart Chain. After the intial launch the original developer could no longer give his full attention to Alchemist Defi, so a new team has stepped in to take over. 
+Alchemist Defi is a brand new project designed by an experienced development team as the 3rd generation deflationary yield farm, Liquidity Provider & AMM on Binance Smart Chain. After the initial launch the original developer could no longer give his full attention to Alchemist DeFi, so a new team has stepped in to take over. 
 
-We aim to be the most transparent project in the DeFi space. 
+We aim to be the most transparent project in the DeFi space. This is not just something we say, but something we truly hope to become known for.
 
 Besides the buyback burning mechanism introduced by Goose Finance, we have implemented some unique innovative features on Alchemist's yield farm to increase value for our investors.
 
