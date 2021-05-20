@@ -2,7 +2,7 @@
 
 ## Summary
 
-There are 2 tokens in the Alchemist DeFiVerse, MIST and AURUM. The MIST token has a higher emission rate than the AURUM token. MIST therefore has a larger circulating supply which increases at a higher rate to AURUM. This is similar to what you would see in layered farming. You will also note that there are incentives to mine AURUM and MIST and each pool has different rewards to help with this. 
+There are 2 tokens in the Alchemist DeFiVerse, MIST and AURUM \(Latin for Gold\). The MIST token has a higher emission rate than the AURUM token. MIST therefore has a larger circulating supply which increases at a higher rate to AURUM. This is similar to what you would see in layered farming. You will also note that there are incentives to mine AURUM and MIST and each pool has different rewards to help with this. 
 
 * Name: Alchemist DeFi MIST
 * Symbol: MIST
