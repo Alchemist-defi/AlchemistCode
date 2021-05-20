@@ -8,7 +8,7 @@ description: >-
 
 Please use the following form to submit your bug, this is the easiest way that we can ensure that all bugs reported are tracked and that the first reporter gets the reward. 
 
-It is important that you complete the google form below as this is the only way we can track first in first served and also make sure we prioritize the bug fixes. 
+It is important that you complete the google form below, as this is the only way we can track who reported first and also make sure we prioritize the bug fixes. 
 
 [Bug Bounty Submission Sheet - Google Sheets](https://forms.gle/3m9X11xaFiV99Lp77)
 
