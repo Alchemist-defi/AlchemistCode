@@ -34,6 +34,8 @@ Note that applying and being successful on exchanges is a major challenge for a 
 
 \*\*\*\*[**Unidex**](https://unidexbeta.app/bscCharting?token=0x6f8FE12CC34398d15b7D5A5BA933E550DA1D099f) - Charting platform we use 
 
+\*\*\*\*[**Trustwallet**](https://trustwallet.com/) - Pricing updated, working with them to get the logos updated.
+
 ### Applied - Waiting for Response/In progress
 
 [Pancake Swap](https://pancakeswap.finance/) -  Applied, no response as yet. Continue applying
@@ -46,7 +48,9 @@ Note that applying and being successful on exchanges is a major challenge for a 
 
 [DefiPrime ](https://defiprime.com/bsc) -  Applied, no response as yet. Continue applying
 
-\*\*\*\*[**BitForex**](https://www.bitforex.com/) - Applied, no response yet. Continue Applying
+\*\*\*\*[BitForex](https://www.bitforex.com/) - Applied, no response yet. Continue Applying
+
+[Dex-Trade](https://dex-trade.com/) - Agreement reached; accumulating fees to fund the listing. 57% of funds collected, as of 20 May 2021. No native tokens will be sold in order to pay for the listing. This is done to maintain the price stability for our investors. Expected date of listing: 31st May, 2021.
 
 ### Applied - Not moving forward yet due to capital requirements
 
