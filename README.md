@@ -18,6 +18,7 @@ Our approach is to test, retest and push everything to the limits. To increase S
 * **Migrator Code Removed**
 * **Timelock Added at Launch**
 * **Farming starts at a given block \(no minting backdoor\)**
+* **Doxed dev team**
 
 _Kindly be reminded, please always Do Your Own Research! Only invest what you can afford to lose._
 
