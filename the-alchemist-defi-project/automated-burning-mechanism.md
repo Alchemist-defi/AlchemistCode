@@ -28,9 +28,3 @@ In order for us Alchemists to continually increase the value of our tokens and r
 * The emission rate was reduced by 5% every 9,600 blocks \(~8 hours\) automatically until it reached 0.3 MIST and 0.001 AURUM per block.
 * Our emission rate reduction logic was coded in the smart contract and was executed automatically.
 
-**Automated Referral Reward & Burn**
-
-* Users of the platform can invite their friends using referral links, allowing them to profit from organic marketing
-* Using a referral link doesn't decrease the reward for the referred. Reward tokens are minted for the referrer, allowing for a fair profit-sharing system.
-* In case a user does not have a referrer, the additional reward is burnt, to reduce natural inflation.
-
