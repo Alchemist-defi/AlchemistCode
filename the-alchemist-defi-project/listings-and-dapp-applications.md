@@ -50,7 +50,7 @@ Note that applying and being successful on exchanges is a major challenge for a 
 
 \*\*\*\*[BitForex](https://www.bitforex.com/) - Applied, no response yet. Continue Applying
 
-[Dex-Trade](https://dex-trade.com/) - Agreement reached; accumulating fees to fund the listing. 57% of funds collected, as of 20 May 2021. No native tokens will be sold in order to pay for the listing. This is done to maintain the price stability for our investors. Expected date of listing: 31st May, 2021.
+[Dex-Trade](https://dex-trade.com/) - Agreement reached; accumulating fees to fund the listing. 91% of funds collected, as of 2nd June 2021. No native tokens will be sold in order to pay for the listing. This is done to maintain the price stability for our investors. Expected date of listing: 9th June, 2021.
 
 ### Applied - Not moving forward yet due to capital requirements
 
