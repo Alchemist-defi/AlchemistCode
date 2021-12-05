@@ -11,8 +11,18 @@
 
 ## Tokenomics
 
-* [MIST and AURUM Tokens](tokenomics/mist-token.md)
 * [Contracts](tokenomics/contracts.md)
+* [MIST and AURUM Tokens](tokenomics/mist-token.md)
+
+## Island Of Aura
+
+* [Lore](island-of-aura/lore.md)
+* [Breeds of OWL](island-of-aura/breeds-of-owl.md)
+* [Owl Characteristics](island-of-aura/owl-characteristics.md)
+* [The Owls Of Origin](island-of-aura/the-owls-of-origin.md)
+* [Origin Levels](island-of-aura/origin-levels.md)
+* [Breeding](island-of-aura/breeding.md)
+* [Roadmap](island-of-aura/roadmap.md)
 
 ## Security
 
@@ -33,4 +43,3 @@
 ## Changes
 
 * [Aurum Contract - Changes May 7 2021](changes/aurum-contract-proposed-changes-may-7-2021.md)
-
