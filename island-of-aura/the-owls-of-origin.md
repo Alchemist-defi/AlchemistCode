@@ -49,7 +49,7 @@ While MIST is staked in an Owl of Origin the user will not be able to stake the 
 
 Only one player can stake for a specific Owl of Origin at a time.&#x20;
 
-One user should be able to stake for multiple Owls of Origin, however, no one player should be able to stake for more than one of each level of the same breed. For example, you will be able to stake for a Level 1 Barn Owl and level 1 Phoenix Owl but you would be able to stake for 2 Level 1 Barn Owls.
+One user should be able to stake for multiple Owls of Origin, however, no one player should be able to stake for more than one of each level of the same breed. For example, you will be able to stake for a Level 1 Barn Owl and level 1 Phoenix Owl but you would not be able to stake for 2 Level 1 Barn Owls.
 
 The above limitations means that no one player will be able to hold more than 4 Level 1 Owls of Origin - one of each breed.
 
