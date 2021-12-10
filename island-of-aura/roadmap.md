@@ -44,9 +44,9 @@
 
 ✅ Release game documentation
 
-🚀 Update front end for owl pools
+✅ Update front end for owl pools
 
-🚀 Release Owl pools
+✅ Release Owl pools
 
 #### MVP Stage Two:
 
