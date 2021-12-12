@@ -16,14 +16,14 @@ The following table breaks down the number of Owls of Origin per level and per b
 
 | Level                 | Phoenix | Barn | Eagle | Screech | Total |
 | --------------------- | ------- | ---- | ----- | ------- | ----- |
-| Level 1               | 8       | 11   | 11    | 11      | 41    |
-| Level 2               | 11      | 16   | 16    | 16      | 59    |
-| Level 3               | 16      | 22   | 22    | 22      | 82    |
-| Level 4               | 22      | 31   | 31    | 31      | 115   |
-| Level 5               | 29      | 41   | 41    | 41      | 152   |
-| Owls of Origin        | 86      | 121  | 121   | 121     | 449   |
+| Level 1               | 7       | 10   | 10    | 10      | 37    |
+| Level 2               | 10      | 15   | 15    | 15      | 55    |
+| Level 3               | 15      | 21   | 21    | 21      | 78    |
+| Level 4               | 21      | 30   | 30    | 30      | 111   |
+| Level 5               | 28      | 40   | 40    | 40      | 148   |
+| Owls of Origin        | 81      | 116  | 116   | 116     | 429   |
 | Team Owls\*           | 5       | 5    | 5     | 5       | 20    |
-| Available for staking | 81      | 116  | 116   | 116     | 429   |
+| Available for staking | 76      | 111  | 111   | 111     | 409   |
 
 \*There will be 20 team Owls that will be per minted and transferred to the dev wallet. These team Owls will include one owl per breed per level. Team Owls will never be available for sale and will be used by the team to generate children owls to sell in the marketplace as a way to fund future developments of the project. Team Owls will be subject to the exact same breeding limitations, calculations and fees as all other Owls. In total the team allocation is less than 5% of the total supply. The dev wallet address is also publicly available for inspection at any point in time.
 
